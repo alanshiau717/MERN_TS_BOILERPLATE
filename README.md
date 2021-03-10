@@ -1,6 +1,7 @@
 # MERN_TS_BOILERPLATE
 
-Simple MERN Fullstack Boilerplate using typescript
+A react.js frontend with a express.js and mongoDB backend. Utilizes mongoose for database modelling.
+All written in typescript.
 
 ## Dependencies
 
